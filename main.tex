@@ -1,0 +1,70 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage{geometry}
+ \geometry{ a4paper, total={170mm,257mm}, left=20mm, top=20mm}
+\usepackage{verbatim}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+%\usepackage{gensymb}
+\usepackage{verbatim} % env for block comment 
+\usepackage{ragged2e} % para usar flusleft
+\usepackage[brazilian]{babel}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{tabu}
+\usepackage{booktabs}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=red,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={zrhans@gmail.com},
+    %bookmarks=true,
+    pdfpagemode=FullScreen,}
+    
+\urlstyle{same}
+\usepackage{minted}     % Realce de código
+\usemintedstyle{tango}  % Tema do realce de código
+
+\usepackage{wrapfig}
+\usepackage[export]{adjustbox} % Ajuste das imagens To change the default alignment of a image from left or right 
+
+\usepackage{tikz,tkz-euclide}
+\usepackage{circuitikz} 
+
+
+\usepackage{fancyhdr}
+ 
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\footrulewidth}{1pt}
+\rhead{\href{http://portalfisica.com}{portalfisica.com}}
+\lhead{UFSM}
+\lfoot{Prof. Hans R. Zimermann - hans@ufsm.br}
+\rfoot{Página - \thepage}
+
+\begin{document}
+
+\begin{wrapfigure}{l}{0.2\textwidth}
+\includegraphics[width=.7\linewidth]{img/atm} 
+\end{wrapfigure}
+
+\noindent
+\textsc{UFSM00029 - Física Experimental III \\ FSC1026 - Física Geral Experimental III \\ FSC326  \, -  Laboratório de Física III} \\
+Engenharias e Física \\
+Semestre - 1.2023 \\
+Prof. Hans R. Zimermann \\
+
+\noindent \rule{\linewidth}{0.5mm}
+
+\begin{flushright}
+{\color{orange}\textit{\mbox{"A perfeição é atingida não quando não se tem mais o que colocar,} \\ \mbox{ mas sim quando não se tem mais o que tirar." \;- Antoine de Saint-Exupéry}} }
+\end{flushright}
+
+\input{maquina-eletrostatica.tex}
+%\input{capacitancia.tex}
+%\input{lei-de-ohm.tex}
+%\input{capacitancia.tex}
+
+\end{document}
