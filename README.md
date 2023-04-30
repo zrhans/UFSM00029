@@ -1,5 +1,5 @@
 ---
-description: UFSM00029
+description: UFSM00029 - Física Experimental III
 ---
 
 # Mural
