@@ -4,7 +4,7 @@ description: UFSM00029 - Física Experimental III
 
 # Mural
 
-Os experimentos serão conduzidos em laboratório didático e não está planejado o cronograma detalhado por considerar que a duração dos experimentos dependerá da evolução, realização, análise de dados e avaliação de cada um deles. Entretanto os tópicos a realizarmos ao menos 1 experimento de cada seguem:
+Os experimentos serão conduzidos em laboratório didático e não está planejado o cronograma detalhado por considerar que a duração dos experimentos dependerá da evolução, realização, análise de dados e avaliação de cada um deles. Tópicos a realizarmos experimentos:
 
 **- MEDIDAS ELÉTRICAS**
 
