@@ -1,5 +1,7 @@
 ---
-description: Experimento sobre eletrostática
+description: Máquinas eletrostáticas - Gerador Van De Graaff
+cover: .gitbook/assets/electric-whirl-on.jpg
+coverY: -20
 ---
 
 # Experimento 01
