@@ -1,7 +1,7 @@
 ---
 description: Estudo experimental do Magnetismo - Lei de Ampère
-cover: https://www.infoenem.com.br/wp-content/uploads/2018/12/mao_direita.png
-coverY: -62
+cover: https://i.ytimg.com/vi/JPh-YJyuynQ/maxresdefault.jpg
+coverY: 76
 ---
 
 # ⚡ Experimento 04
