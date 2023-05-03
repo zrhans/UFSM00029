@@ -1,6 +1,6 @@
 ---
 description: Estudo experimental da Corrente Elétrica
-cover: .gitbook/assets/8860339_orig.jpg
+cover: https://static.preparaenem.com/2022/10/4-segunda-lei-de-ohm.jpg
 coverY: 0
 ---
 
